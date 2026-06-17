@@ -230,4 +230,4 @@ Calendar-Text-to-Picto-Translation/
 
 Pictograms are property of the Government of Aragón and are created by Sergio Palao for [ARASAAC](https://arasaac.org), distributed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-Application code is licensed under the [MIT License](LICENSE).
+Application code is licensed under the [MIT License](LICENSE). 
